@@ -1,7 +1,8 @@
+# -*- coding: utf-8 -*-
 """
-Make it more robust.
-Stop episode once the finger stop at the final position for 50 steps.
-Feature & reward engineering.
+Created on Sat April 2 15:11:01 2022
+
+@author: Sanjay
 """
 
 from env_with_torque_1 import ArmEnv
