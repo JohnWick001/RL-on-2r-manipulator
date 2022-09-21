@@ -1,6 +1,12 @@
 # RL-on-2r-manipulator
 the DDPG algorithm was implemented for the linear model(direct control of joint angles) and non linear dynamics of the 2-DOF planar manipulator.
 
+![image](https://user-images.githubusercontent.com/11870995/191531348-516368eb-9514-4754-bb85-cb055b612613.png)
+
+
+
+
+
 Linear model for Stright line Minimum jerk trajectory[mjt]:
 
 
